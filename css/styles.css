@@ -4,6 +4,8 @@ YOUR STYLES
 article {
   max-height: 100%;
   overflow: hidden;
+  width: 50%;
+  margin: auto;
 }
 
 
